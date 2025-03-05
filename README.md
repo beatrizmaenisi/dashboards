@@ -17,7 +17,7 @@ obs. Deve-se importar a Pasta Extratos
 - Verde: #16C99E
 - Roxo: #5F21CE
 
-[Acesse a pasta aqui](Dashboard Financeiro)
+[Acesse a pasta aqui](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard%20Financeiro)
 
 ## Dashboard Logística
 
@@ -49,4 +49,4 @@ obs. Altere o tipo de dado da coluna para Texto
 - Azul: #146B81
 - Verde: #72BC1C
 
-[Acesse a pasta aqui](Dashboard Logística)
+[Acesse a pasta aqui]([Dashboard Logística](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard%20Log%C3%ADstica))
