@@ -64,7 +64,7 @@ Cores utilizadas:
 - Rosa: #F11965
 - Laranja: #FF7A00
 
-[Acesse a pasta aqui]()
+[Acesse a pasta aqui](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard%20Vendas)
 
 ## Dashboard Financeiro 2
 
@@ -91,7 +91,7 @@ Cores utilizadas:
 - Vermelho: #FD625E
 - Verde-água: #01B8AA
 
-[Acesse a pasta aqui]()
+[Acesse a pasta aqui](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard_Financeiro%202)
 
 ## Dashboard Produção
 
@@ -112,7 +112,7 @@ Cores utilizadas:
 - Verde (Produtividade): #209B87
 - Verde (Qualidade): #4DB686
 
-[Acesse a pasta aqui]()
+[Acesse a pasta aqui](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard_Produ%C3%A7%C3%A3o)
 
 ## Dashboard RH
 
@@ -136,4 +136,4 @@ Cores utilizadas:
 - Verde: #C0F740
 - Verde: #ECFCC5
 
-[Acesse a pasta aqui]()
+[Acesse a pasta aqui](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard_RH)
