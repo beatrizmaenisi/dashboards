@@ -49,4 +49,4 @@ obs. Altere o tipo de dado da coluna para Texto
 - Azul: #146B81
 - Verde: #72BC1C
 
-[Acesse a pasta aqui]([Dashboard Logística](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard%20Log%C3%ADstica))
+[Acesse a pasta aqui](https://github.com/beatrizmaenisi/dashboards/tree/main/Dashboard%20Log%C3%ADstica)
